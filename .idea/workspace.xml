@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072af88d-a1f0-4e76-9d66-49bd97a4b305" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -100,7 +93,8 @@
       <updated>1610272811804</updated>
       <workItem from="1610272818852" duration="9477000" />
       <workItem from="1610322894452" duration="160000" />
-      <workItem from="1610371927941" duration="1999000" />
+      <workItem from="1610371927941" duration="2207000" />
+      <workItem from="1610408990462" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="字符串">
       <created>1610373756984</created>
@@ -109,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610373756984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="字符串">
+      <created>1610373948513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610373948513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="字符串">
+      <created>1610374037875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610374037875</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,14 +128,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="字符串" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1610373947447">
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1610374036998">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610373947447" />
-    <state x="0" y="369" key="FileChooserDialogImpl" timestamp="1610323049182">
+    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610374036998" />
+    <state x="0" y="369" key="FileChooserDialogImpl" timestamp="1610409031313">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="369" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610323049182" />
+    <state x="0" y="369" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610409031313" />
     <state x="275" y="323" width="273" height="220" key="Github.ShareDialog" timestamp="1610373618445">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -136,34 +144,34 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="270" y="138" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610373627812" />
-    <state width="1557" height="182" key="GridCell.Tab.0.bottom" timestamp="1610373960005">
+    <state width="778" height="181" key="GridCell.Tab.0.bottom" timestamp="1610374138049">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="182" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610373960005" />
-    <state width="1557" height="182" key="GridCell.Tab.0.center" timestamp="1610373960005">
+    <state width="778" height="181" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610374138049" />
+    <state width="778" height="181" key="GridCell.Tab.0.center" timestamp="1610374138049">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="182" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610373960005" />
-    <state width="1557" height="182" key="GridCell.Tab.0.left" timestamp="1610373960005">
+    <state width="778" height="181" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610374138049" />
+    <state width="778" height="181" key="GridCell.Tab.0.left" timestamp="1610374138049">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="182" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610373960005" />
-    <state width="1557" height="182" key="GridCell.Tab.0.right" timestamp="1610373960005">
+    <state width="778" height="181" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610374138049" />
+    <state width="778" height="181" key="GridCell.Tab.0.right" timestamp="1610374138049">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="182" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610373960005" />
+    <state width="778" height="181" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610374138049" />
     <state x="158" y="57" width="916" height="717" key="SettingsEditor" timestamp="1610373928438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="158" y="57" width="916" height="717" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610373928438" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610373986202">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610374040170">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610373986202" />
-    <state x="380" y="492" key="com.intellij.ide.util.TipDialog" timestamp="1610322895684">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610374040170" />
+    <state x="380" y="492" key="com.intellij.ide.util.TipDialog" timestamp="1610408994185">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="380" y="492" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1610322895684" />
+    <state x="380" y="492" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1610408994185" />
     <state x="484" y="691" width="672" height="678" key="search.everywhere.popup" timestamp="1610280149931">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
