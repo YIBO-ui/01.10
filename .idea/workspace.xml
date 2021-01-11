@@ -3,16 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="072af88d-a1f0-4e76-9d66-49bd97a4b305" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01-10.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01.10.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StringChange.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,14 +100,30 @@
       <updated>1610272811804</updated>
       <workItem from="1610272818852" duration="9477000" />
       <workItem from="1610322894452" duration="160000" />
-      <workItem from="1610371927941" duration="1551000" />
+      <workItem from="1610371927941" duration="1999000" />
     </task>
+    <task id="LOCAL-00001" summary="字符串">
+      <created>1610373756984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610373756984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="字符串" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1610373755038">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610373755038" />
     <state x="0" y="369" key="FileChooserDialogImpl" timestamp="1610323049182">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -139,10 +152,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1340" height="190" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610287365629" />
-    <state x="-13" y="41" width="916" height="717" key="SettingsEditor" timestamp="1610372865612">
+    <state x="158" y="57" width="916" height="717" key="SettingsEditor" timestamp="1610373928438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="-13" y="41" width="916" height="717" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610372865612" />
+    <state x="158" y="57" width="916" height="717" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610373928438" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610373771747">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610373771747" />
     <state x="380" y="492" key="com.intellij.ide.util.TipDialog" timestamp="1610322895684">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
